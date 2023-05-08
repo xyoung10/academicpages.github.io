@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Young Xu's Homepage"
+title                    : "Young Xu"
 title_separator          : "-"
-name                     : &name "Young Xu"
+name                     : &name "徐漾"
 description              : &description "Product Manager"
 url                      : https://xyoung10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/jekylltest" # the subpath of your site, e.g. "/blog"
-repository               : "xyoung10/jekylltest"
+baseurl                  : "/resume" # the subpath of your site, e.g. "/blog"
+repository               : "xyoung10/resume"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Young Xu"
   avatar           : "profile.png"
-  bio              : "My biography for the left-hand sidebar!!!!"
-  location         : "Location"
+  bio              : "SaaS产品经理"
+  location         : "浙江 杭州"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
+  email            : "xyoung10@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xyoung10"
+  github           : # example: "xyoung10"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # example: "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # example: "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
